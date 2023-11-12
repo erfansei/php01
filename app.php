@@ -12,7 +12,7 @@
     <?php
         echo "https://www.php.net/images/meta-image.png";
     ?>
-" title="php-logo"/>
+" title="php-logo1"/>
 <p>
     <?php
         echo "PHP (Hypertext Processor) is a general-purpose scripting language and interpreter that is freely available and widely used for web development. The language is used primarily for server-side scripting, although it can also be used for command-line scripting and, to a limited degree, desktop applications.";
